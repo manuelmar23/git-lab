@@ -6,7 +6,11 @@ All notable changes to the cafeteria menu system will be documented in this file
 <!-- The line below is the conflict line for Task 6. Leave it alone until then,
      and when you get there replace this one line only. -->
 
+docs/changelog-gluten
+## [Unreleased] Version 1.1.0 - Added vegetarian and gluten-free options
+
 ## [Unreleased] Version 1.1.0 - Added vegetarian options
+master
 
 ---
 
